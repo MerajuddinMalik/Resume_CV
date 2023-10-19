@@ -47,7 +47,7 @@
 }
 .p1{
 
-  margin-top: -18px;
+  /* margin-top: -18px; */
   font-size:1.2vw
 }
 .p2, .p3{
@@ -123,7 +123,7 @@ font-size: 1.2vw;
   border-radius: 12px 2px 12px 2px;
   padding-left: 10px;
   padding-bottom: 5px;
-  margin-top: 10px;
+  margin-top: 30px;
   background-color: #ffcc00;
   font-size:1.7vw;
   
@@ -137,7 +137,7 @@ font-size: 1.2vw;
   border-radius: 12px 2px 12px 2px;
   padding-left: 10px;
   padding-bottom: 5px;
-  margin-top: 233px;
+  margin-top: 200px;
   background-color: #ffcc00;
   font-size:1.7vw;
 }
@@ -188,7 +188,7 @@ font-size: 1.2vw;
   max-width: 100%;
   max-height: auto;
   margin-bottom: 20px;
-  margin-left: 45px;
+  margin-left: 25px;
 
   /* border: 1px solid red; */
   
@@ -203,7 +203,7 @@ font-size: 1.2vw;
 
 
 
-@media screen and (max-width: 720px), (max-width: 750px), (max-width: 820px),  (max-width: 920px) {
+@media screen and (max-width: 720px), (max-width: 750px), (max-width: 850px), (max-width: 975px) {
   .botdevelopments img {
     margin-left: 10px;
     width: 80px;
